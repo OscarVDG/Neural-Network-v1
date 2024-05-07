@@ -8,6 +8,8 @@ This is an attempt at a Neural Network from scratch. I coded my own matrix class
 **3B1B NN series on YT, episode 1-4:** [Here](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)  
 **Book on NNs by Michael Nielsen:** [Here](http://neuralnetworksanddeeplearning.com/)
 
+I origianlly wanted to experiment with it by letting it solve chess puzzles. I evidently never got that far but I did implement some things while trainging the different networks.
+
 ## Results
 I managed to train it to mimic and XOR-gate. If I remember correctly it managed to mimic some simple mathematical functions as well. Trying to mimic a sine function was much harder. However, the gradient descent seemed to worked. What I mean by that is that it did manage to find a pretty "deep" local minima for the error function. Through school, I managed to talk to a mathematician with a PhD in Neural Networks who said that it was probably due to me only using ReLU. She never saw any of my code though so I don't know who knows.
 
