@@ -4,6 +4,11 @@ import data.Puzzle;
 import data.PuzzleLoader;
 import network.NeuralNetwork;
 
+//The last time I used this I was trying lots of different things to train it on
+//Because of that this file is kind of a mess
+//Might clean it up in the future so that it works more as a demo
+
+
 public class Main {
 
 	public static void main(String[] args) {
